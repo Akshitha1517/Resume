@@ -87,6 +87,4 @@ Communication • Teamwork • Leadership • Presentation • Coordination • 
 
 To continuously improve my technical skills, work on meaningful projects, participate in real-world challenges, and grow into a skilled technology professional.
 
----
 
-⭐ **Learning • Building • Exploring • Growing**
