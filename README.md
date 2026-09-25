@@ -1,90 +1,81 @@
 # Akshitha P.
 
-### B.Tech CSE – Data Science Student | Aspiring Software & Data Professional
+### B.Tech CSE - Data Science Student | Aspirant in the fields of Software & Data
 
 ## 👋Heyy!!
 
-I am a second-year B.Tech CSE – Data Science student at Nalla Narasimha Reddy Engineering College, Hyderabad, interested in technology, problem-solving, and continuous learning.
+I'm a Second-year B.Tech CSE - Data Science Student from a college named Nalla Narasimha Reddy Engineering College, Hyderabad with an interest in technology, problem solving, and learning.
 
-I am currently strengthening my programming fundamentals and learning Java while exploring Data Science, Artificial Intelligence, Web Development, and Software Development.
+I am currently enhancing my programming skills by learning Java while being a Data Science Enthusiast, exploring the fields of Web Development and Software Development.
 
-I enjoy participating in hackathons, technical events, workshops, and collaborative activities where I can learn through practical experiences.
+I like to participate in Hackathons, technical events, and activities where I can learn hands-on experiences.
 
-Alongside academics, I have been involved in MUN activities, student coordination, hackathons, presentations, Elite Gathering, and college events.
+In addition to my studies, I have been involved in MUN activities, student coordination activities, Hackathons, presentations, Elite Gathering and various college events.
 
-I believe in learning step by step, building practical skills, and improving through every experience.
+I believe in learning step by step, gaining practical knowledge in my areas of interest and moving forward by improving my skills with every experience.
 
 ## 🎓 Education
 
-**B.Tech – Computer Science & Engineering (Data Science)**  
-Nalla Narasimha Reddy Engineering College, Hyderabad  
-2025 – Present
+B.Tech - Computer Science and Engineering (Data Science) , Nalla Narasimha Reddy Engineering College, Hyderabad pursuing 2025 - Present
 
-## 💻 Currently Learning
+## 💻 Currently I'm learning
 
-- Java
-- Programming Fundamentals
-- Data Structures & Algorithms
-- DBMS
-- Web Development
-- Data Science
-- AI/ML Fundamentals
+Java, Programming Fundamentals, Data Structures & Algorithms, DBMS, Web Development, Data Science and AI/ML fundamentals.
 
-## 💡 Project & Learning Interests
+## 💡 Project and Learning Ideas
 
 ### Student Skill Exchange Platform
 
-A platform concept where students can teach skills they know and learn skills from other students, encouraging peer-to-peer learning and collaboration.
+An idea for a platform where students can teach and learn skills from each other.
 
-**Focus:** Peer Learning • Student Collaboration • Skill Sharing
+Focus Areas: Peer Learning, Student Collaboration, Skill Sharing
 
-## 🏆 Hackathons & Technical Activities
+## 🏆 Hackathons and Activities
 
-- Participated in hackathons and technical competitions.
-- Participated in Smart India Hackathon activities.
-- Worked collaboratively on problem statements, project ideas, presentations, and prototypes.
-- Participated in technical workshops and learning events.
-- Interested in developing practical solutions for real-world problems.
+• Participated in Hackathons and technical activities.
 
-## 🎯 Activities & Leadership
+• Participated in Smart India Hackathon activities.
+
+• Collaborated with team members to discuss problem statements, project ideas, presentations, and prototypes for various hackathons.
+
+• Attended technical workshops and events.
+
+• Interested in building practical solutions to address real-world problems.
+
+## 🎯 Activities and Leadership
 
 ### MUN Student Coordinator
 
-- Supported coordination and communication for MUN-related activities.
-- Worked with students and helped organize activities.
-- Developed communication, teamwork, and coordination skills.
+Coordinated and communicated with students for various MUN related activities.
+
+Developed communication and coordination skills while working with students and organizing events.
 
 ### Elite Gathering
 
-- Participated in Elite Gathering and actively engaged in student activities.
-- Collaborated with other students during the event.
+Participated in the Elite Gathering and actively engaged in student activities. Collaborated with fellow students during the event.
 
 ## 🛠️ Skills
 
 ### Programming
-Java • C • Programming Fundamentals
+
+Java, C, Programming Fundamentals
 
 ### Core Computer Science
-DBMS • Data Structures Fundamentals
 
-### Exploring
-Data Science • AI/ML • Web Development • Software Development
+DBMS, Data Structures Fundamentals
+
+### Gaining Knowledge in
+
+Data Science, AI/ML, Web Development, Software Development
 
 ### Soft Skills
-Communication • Teamwork • Leadership • Presentation • Coordination • Time Management
+
+Communication, Teamwork, Leadership, Presentation, Coordination, Time Management
 
 ## 🌱 Interests
 
-- Software Development
-- Data Science
-- Artificial Intelligence
-- Web Development
-- Hackathons
-- Problem Solving
-- Technology & Innovation
+Software Development, Data Science, Artificial Intelligence, Web Development, Hackathons, Problem Solving, Technology & Innovation
 
 ## 🎯 Goal
 
-To continuously improve my technical skills, work on meaningful projects, participate in real-world challenges, and grow into a skilled technology professional.
-
-
+Enhance my technical skills, participate in various projects and real-world applications while exploring my interests and becoming a successful technology enthusiast.
